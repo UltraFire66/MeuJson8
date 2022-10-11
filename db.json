@@ -1,0 +1,165 @@
+{
+  "produtos": [
+    {
+      "idProduto": 10,
+      "nome": "old spice lenha",
+      "quantidade": 25,
+      "marca": "old spice",
+      "idFornecedor": 10
+    },
+    
+    {
+      "idProduto": 20,
+      "nome": "old spice matador",
+      "quantidade": 25,
+      "marca": "old spice",
+      "idFornecedor": 10
+    },
+    
+    {
+      "idProduto": 21,
+      "nome": "old spice lenha",
+      "quantidade": 25,
+      "marca": "old spice",
+      "idFornecedor": 10
+    },
+    
+    
+    
+    {
+      "idProduto": 2,
+      "nome": "desodorante",
+      "quantidade": 22,
+      "marca": "Bozano",
+      "idFornecedor": 5
+    },
+    
+    {
+      "idProduto": 3,
+      "nome": "Orégano",
+      "quantidade": 13,
+      "marca": "dragão",
+      "idFornecedor": 22
+    },
+    
+    {
+      "idProduto": 22,
+      "nome": "Molho pra salada",
+      "quantidade": 13,
+      "marca": "dragão",
+      "idFornecedor": 22
+    },
+    
+    {
+      "idProduto": 23,
+      "nome": "Pimenta",
+      "quantidade": 13,
+      "marca": "dragão",
+      "idFornecedor": 22
+    },
+    
+    {
+      "idProduto":24,
+      "nome": "Ketchup",
+      "quantidade": 13,
+      "marca": "dragão",
+      "idFornecedor": 22
+    },
+    
+    {
+      "idProduto": 4,
+      "nome": "Papel",
+      "quantidade": 15,
+      "marca": "arvore",
+      "idFornecedor": 9
+    },
+    
+    {
+      "idProduto": 25,
+      "nome": "Madeira",
+      "quantidade": 15,
+      "marca": "arvore",
+      "idFornecedor": 9
+    },
+    
+    {
+      "idProduto": 26,
+      "nome": "Tabua",
+      "quantidade": 15,
+      "marca": "arvore",
+      "idFornecedor": 9
+    },
+    
+    {
+      "idProduto": 27,
+      "nome": "Folha",
+      "quantidade": 15,
+      "marca": "arvore",
+      "idFornecedor": 9
+    },
+    
+    
+    {
+      "idProduto": 28,
+      "nome": "Cola",
+      "quantidade": 5,
+      "marca": "Friboi",
+      "idFornecedor": 7
+    },
+    
+    {
+      "idProduto": 29,
+      "nome": "Picanha",
+      "quantidade": 5,
+      "marca": "Friboi",
+      "idFornecedor": 7
+    },
+    
+    {
+      "idProduto": 30,
+      "nome": "Maminha",
+      "quantidade": 5,
+      "marca": "Friboi",
+      "idFornecedor": 7
+    },
+    
+    {
+      "idProduto": 31,
+      "nome": "Alcatra",
+      "quantidade": 5,
+      "marca": "Friboi",
+      "idFornecedor": 7
+    }
+    
+  ],
+  "fornecedor": [
+    {
+      "idFornecedor": 5,
+      "nome": "Bozano",
+      "cidade": "Cidade sede",
+      "rua": "rua do desodorante sla",
+      "numero": 55
+    },
+    {
+      "idFornecedor": 10,
+      "nome": "Old Spice",
+      "cidade": "Cidade sede",
+      "rua": "rua do desodorante Bozano sla",
+      "numero": 177
+    },
+    {
+      "idFornecedor": 7,
+      "nome": "Friboi",
+      "cidade": "Cidade sede",
+      "rua": "rua da carne",
+      "numero": 90
+    },
+    {
+      "idFornecedor": 22,
+      "nome": "Dragão",
+      "cidade": "Cidade sede",
+      "rua": "rua do senhor dos aneis",
+      "numero": 45
+    }
+  ]
+}
